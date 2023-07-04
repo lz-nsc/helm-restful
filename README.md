@@ -1,5 +1,5 @@
 # Helm-restful
-A http server using `go-restful and Helm Go SDK that can execute helm command to target Kubernetes cluster with HTTP request api.
+A http server using go-restful and Helm Go SDK that can execute helm command to target Kubernetes cluster with HTTP request api.
 
 ## Usage
 ```bash
